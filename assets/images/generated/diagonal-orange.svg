@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="720" viewBox="0 0 240 720" role="img" aria-label="">
+  <defs>
+    <linearGradient id="orangeBand" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4791F"/>
+      <stop offset="1" stop-color="#D9640E"/>
+    </linearGradient>
+    <pattern id="stripeTexture" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(55)">
+      <path d="M0 0h2v28H0z" fill="#fff" opacity=".08"/>
+    </pattern>
+  </defs>
+  <path d="M108-40h132L132 760H0z" fill="url(#orangeBand)"/>
+  <path d="M108-40h132L132 760H0z" fill="url(#stripeTexture)"/>
+  <path d="M210-40h18L120 760h-18z" fill="#fff" opacity=".16"/>
+</svg>

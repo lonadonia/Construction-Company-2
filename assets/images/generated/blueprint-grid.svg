@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="">
+  <rect width="160" height="160" fill="#111B25"/>
+  <path d="M0 40h160M0 80h160M0 120h160M40 0v160M80 0v160M120 0v160" stroke="#89A9BA" stroke-opacity=".22" stroke-width="1"/>
+  <path d="M0 10h160M0 20h160M0 30h160M0 50h160M0 60h160M0 70h160M0 90h160M0 100h160M0 110h160M0 130h160M0 140h160M0 150h160M10 0v160M20 0v160M30 0v160M50 0v160M60 0v160M70 0v160M90 0v160M100 0v160M110 0v160M130 0v160M140 0v160M150 0v160" stroke="#89A9BA" stroke-opacity=".08" stroke-width="1"/>
+</svg>
